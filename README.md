@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Adriana Corro</h1>
 <h3 align="center">A Undergraduate student at Universidad Latina de Panama</h3>
+<p align="justify">
+  I am in my 3rd year studying Biomedical Engineering while also trying to be a high performance athlete in open water swimming.
+  Currently working on my thesis and to be able to present investigations in the future.
+</p>
+
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/ynXbQ1G.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itchelc&label=Profile%20views&color=0e75b6&style=flat" alt="itchelc" /> </p>
