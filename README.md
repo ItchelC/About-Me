@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itchelc&label=Profile%20views&color=0e75b6&style=flat" alt="itchelc" /> </p>
 
-- 🔭 I’m currently working on **Undegraduate Tesis**
+- 📖 I’m currently working on **Undegraduate Tesis**
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **adriana.corro@ieee.org**
 
-- ⚡ Fun fact **I love sports.**
+- 🌊 Fun fact **I love sports and outdoor activities.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
