@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Gait Laboratory**
 
-- 📫 How to reach me **adriitchel@gmail.com**
+- 📫 How to reach me **adriana.corro@ieee.org**
 
 - ⚡ Fun fact **I love sports.**
 
